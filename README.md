@@ -4,7 +4,7 @@
 [![Platform: Claude.ai](https://img.shields.io/badge/Platform-Claude.ai-orange.svg)](https://claude.ai)
 [![LaTeX](https://img.shields.io/badge/LaTeX-ready-008080.svg)](https://www.latex-project.org)
 [![Journal Templates](https://img.shields.io/badge/Journal%20Templates-7%20supported-brightgreen.svg)](#supported-document-types--templates)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > A Claude skill that transforms structured research content into publication-ready, compilable LaTeX documents with journal-specific formatting.
 
 ---
