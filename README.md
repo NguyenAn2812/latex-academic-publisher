@@ -108,7 +108,7 @@ Prepare your camera-ready package with a single command.
 You can add this skill directly to your local project environment or global skill registry using the package runner:
 
 ```bash
-npx skill add your-username/latex-academic-publisher
+npx skill add NguyenAn2812/latex-academic-publisher
 ```
 
 *This command automatically pulls the instruction assets (`SKILL.md` and templates) from the remote repository and initializes them for your workspace.*
@@ -118,7 +118,7 @@ npx skill add your-username/latex-academic-publisher
 1. **Clone the repository**
 
 ```bash
-   git clone https://github.com/your-username/latex-academic-publisher.git
+   git clone https://github.com/NguyenAn2812/latex-academic-publisher.git
    cd latex-academic-publisher
 ```
 
@@ -147,7 +147,7 @@ To sync the latest improvements and template updates:
 git pull origin main
 
 # If managed via CLI tool
-npx skill update your-username/latex-academic-publisher
+npx skill update NguyenAn2812/latex-academic-publisher
 ```
 
 ---
